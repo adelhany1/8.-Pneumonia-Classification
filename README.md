@@ -6,4 +6,6 @@ While common, accurately diagnosing pneumonia is a tall order. It requires revie
 
 We need to build an algorithm to automatically identify whether a patient is suffering from pneumonia or not by looking at chest X-ray images.
 
+The data is provided from NIH Clinical Center.
+
 
